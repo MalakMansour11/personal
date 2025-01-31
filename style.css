@@ -47,3 +47,13 @@ footer {
     border: 1px solid #ccc;
     padding: 20px;
 }
+#contact a {
+    color: #0077b5; /* LinkedIn's brand color */
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
